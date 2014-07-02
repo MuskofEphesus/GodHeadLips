@@ -200,3 +200,24 @@ Obstaclespec{
 	  {type = "light", diffuse = {1,0.7,0.6,1}, equation = {0.1,0.1,0.01}, node = "#root"}
 	},
 	health = 100}
+
+Obstaclespec{
+	name = "table",
+	model = "table",
+	categories = {"prop"},
+	health = 200,
+	interactive = true}
+
+Obstaclespec{
+	name = "sky",
+	model = "dome",
+	categories = {"prop"},
+	health = 200,
+	interactive = true}
+
+Obstaclespec{
+	name = "ruins1",
+	model = "ruins1",
+	categories = {"prop"},
+	health = 200,
+	interactive = true}

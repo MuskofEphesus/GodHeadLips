@@ -2,7 +2,10 @@ Pattern{
 	name = "ruinedport",
 	size = Vector(64,48,64),
 	categories = {},
+	items = {
+		{39.710000,6.860000,2.750000,"Dinner with Dhanem"}},
 	obstacles = {
+		{39.810000,6.000000,2.430000,"table"},
 		{41.220000,5.980000,0.760000,"wooden mine support (wall)"},
 		{41.870000,5.990000,2.930000,"wooden mine support (wall)",-0.29},
 		{42.040000,5.960000,1.460000,"wooden mine support (wall)",-0.25}},
